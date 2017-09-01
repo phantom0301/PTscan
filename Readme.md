@@ -4,6 +4,8 @@ PTscan(Phantom scanner) 是一款界面友好的轻量级web应用资产扫描�
 
 PTscan参考了F-NAScan的设计思路，在其基础上修改而成，把程序重心放在WEB扫描和识别功能上。
 
+PTscan仅供交流学习使用，请勿用于非法行为。
+
 <img src="http://phantom0301.cc/achiveimg/20170901103835.jpg" style="position: relative;left: 50%;transform: translate(-50%,0%);" />
 
 
