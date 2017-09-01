@@ -1,6 +1,6 @@
 # PTScan #
 
-PTscan(Phantom scanner) 是一款界面友好的轻量级web应用资产扫描器，适合于内网渗透测试环境下web的资产快捷审计，只需Python环境，无需第三方扩展库，扫描结果使用zoomeye网页样式，对用户友好。
+PTscan(Phantom scanner) 是一款界面友好的轻量级web应用资产扫描器，适合于内网渗透测试环境下web的资产快捷识别，只需Python环境，无需第三方扩展库，扫描结果使用zoomeye网页样式。
 
 PTscan参考了F-NAScan的设计思路，在其基础上修改而成，把程序重心放在WEB扫描和识别功能上。
 
